@@ -1,5 +1,50 @@
-# Vue 3 + Vite
+# Gestion des Étudiants et des Formations
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Plateforme web fullstack de gestion académique développée avec Vue.js et Express.js.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Fonctionnalités
+
+- Authentification sécurisée avec JWT
+- Deux rôles : **Admin** et **Étudiant**
+- L'admin peut ajouter/supprimer des formations et des étudiants
+- L'étudiant peut s'inscrire et consulter ses formations
+- Interface pink & mauve 
+
+## Technologies utilisées
+
+- **Frontend** : Vue.js 3, Vite
+- **Backend** : Node.js, Express.js
+- **Sécurité** : JWT, bcryptjs
+
+## Installation et lancement
+
+### Prérequis
+- Node.js installé
+
+### Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Ouvrir : http://localhost:5173
+
+## Comptes de test
+
+| Rôle | Email | Mot de passe |
+|------|-------|--------------|
+| Admin | admin@gmail.com | admin123 |
+| Étudiant | sara@gmail.com | 123456 |
+
+## equipe 
+
+Maroua Gouihya
+chaimae chakhchoukh 
