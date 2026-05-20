@@ -1,0 +1,5 @@
+id,nom,prenom,email,password,role
+1,Admin,Principal,admin@gmail.com,$2b$10$Zzx73wAWlUy5EwhnmisqSOHOa6h7k4Vdrkl1Hp01fsO8Ouz7dB12i,admin
+2,Alami,Sara,sara@gmail.com,$2b$10$4t/xksN90IT04WMb2sn7tOW2RFhfh5rCSMli7pm2TtaAMgdAU/D8G,etudiant
+1779273959527,Gouihya,Maroua,marwagouihya123@gmail.com,$2b$10$OI7TjiL0eHf3JRAvOzNSi.wr/7RekmwWFons3hd5U9N/N6MxXmDle,etudiant
+1779273976107,saloumi,salma,saloumisalma@gmail.com,$2b$10$Ja.TUbC8aFlA97DQvcX/suDaIR8/mLGWP7VUEvO3LZJBkV.gqic1a,etudiant
